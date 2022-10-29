@@ -1,0 +1,21 @@
+#admin-profile{
+    margin-top: 12vh;
+    height: 100vh;
+    display: flex;
+}
+
+#sidebar{
+    background-color:  #1e2021;
+    top: 12vh;
+    width: 26vh;
+    transition: .5s;
+    height: 100vh;
+    position: fixed;
+   
+}
+
+#content{
+    width:-webkit-fill-available;
+    float: right;
+    margin-left: 26vh;
+}

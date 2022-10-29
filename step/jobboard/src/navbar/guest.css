@@ -1,0 +1,30 @@
+.navbar{
+    padding: 20px;
+    width: 100%;
+    background-color: #1e2021;
+    height: 12%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+.btn.btn-primary{
+    background-color: #2c74d3;
+    border-color: white;
+    color: white;
+    width: 100%;
+}
+
+.d-grid.gap-2{
+    text-align: center;
+}
+
+
+.btn-navbar{
+    display: flex;
+}
+
+.navbar-brand{
+    width: 50%;
+}
+

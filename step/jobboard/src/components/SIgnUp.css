@@ -1,0 +1,34 @@
+.main-id{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    margin-top: 12vh;
+    
+}
+
+.register-form{
+    width: 50%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Link{
+    display: flex;
+}
+
+
+.bio{
+    font-size: 1vw;
+}
+
+#select{
+    width: 50%;
+}
+
+.btn.addCompany{
+    background-color: black;
+    color: white;
+}

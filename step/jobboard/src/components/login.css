@@ -1,0 +1,21 @@
+.main-content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15%;
+    width: 100%;
+}
+
+.card-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.liensignup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3%;
+}

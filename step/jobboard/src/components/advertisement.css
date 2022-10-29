@@ -1,0 +1,63 @@
+.advertisements {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+    padding-top: 200px;
+    height: 100vh;
+}
+
+.card {
+    width: 70%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.btn.learn,
+.btn.search,
+.btn.learn1 {
+    background-color: #2c74d3;
+    color: white;
+}
+
+
+
+.d-flex.search-bar {
+    width: 70%;
+    margin-bottom: 7%;
+}
+
+input::placeholder {
+    font-size: small;
+}
+
+.form-control {
+    margin-right: 10px;
+}
+
+/*@media only screen and (max-width: 991px) {
+    .d-flex.search-bar {
+        display: flex;
+        flex-direction: column;
+        width: 85%;
+    }
+}
+*/
+.btn.learn1 {
+    margin-left: 1%;
+}
+
+.company_logo{
+    width: 10%;
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.flex-container> h1{
+    text-align: center;
+    margin-left: 10%;
+}
