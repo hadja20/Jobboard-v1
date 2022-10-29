@@ -1,4 +1,5 @@
-# Jobboard
+# Jobboard: Site de recherche d'emploi LARAVEL / REACT JS CRUD API
+
 
 # Lancer le serveur: Laravel
 Si vous n'avez pas Composer installé sur votre ordinateur: suivez ce tutoriel: https://getcomposer.org/download/    
